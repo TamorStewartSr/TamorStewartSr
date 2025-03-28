@@ -12,7 +12,7 @@
 ### My intensions for this profile is to openly express my willingness and openness to learn, grow and connect with other Dev's to receive and give contributions/Feedback and be recognized by my peers and recruiters.
 
 ## 📌 Licensing and Credit
-### Most of my projects licensed under the MIT License. Feel free to explore and contribute! Some of my Projects are open ended, if you find my beginner-friendly work helpful, I'd appreciate a shout-out. So help a tech Bro out!😂 
+### Most of my projects are licensed under the MIT License. Feel free to explore and contribute! Some of my Projects are open ended, if you find my beginner-friendly work helpful, I'd appreciate a shout-out. So help a tech Bro out!😂 
 
 ## 👨🏾‍💻 Tech Stack
 

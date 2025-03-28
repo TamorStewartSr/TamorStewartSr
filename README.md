@@ -12,7 +12,7 @@
 ### My intensions for this profile is to openly express my willingness and openness to learn, grow and connect with other Dev's to receive and give contributions/Feedback and be recognized by my peers and recruiters.
 
 ## 📌 Licensing and Credit
-### Most of my projects licensed under the MIT License. Feel free to explore and contribute! If you find my beginner-friendly work helpful, I'd appreciate a shout-out. Help tech Bro out!😂 
+### Most of my projects licensed under the MIT License. Feel free to explore and contribute! Some of my Projects are open ended, if you find my beginner-friendly work helpful, I'd appreciate a shout-out. So help a tech Bro out!😂 
 
 ## 👨🏾‍💻 Tech Stack
 
@@ -29,9 +29,35 @@
 ## 🗄️ Database  
 [![H2 Database](https://img.shields.io/badge/H2-003B57?logo=h2&logoColor=white)](https://www.h2database.com/) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/)
 
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    <h3>🎯 Current Focus</h3>
+    <ul>
+      <li>Building RESTful APIs using SpringBoot</li>
+      <li> Exploring database management with H2 and JPA</li>
+      <li>Enhancing user experience with responsive front-end designs</li>
+      <li>Improving my backend development skills</li>
+      <li>Working on a restaurant review system with admin controls</li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <h3>👨🏽‍🏫 Future Goals</h3>
+    <ul>
+      <li>Master front-end development (React/Angular)</li>
+      <li>Contribute to open-source projects</li>
+      <li>Learn DevOps and cloud technologies</li>
+      <li>Understand Machine Learning Fundamentals</li>
+      <li>Learn Python for AI</li>
+      <li>Build Simple AI Projects</li>
+       <li>Learn the Basics of Swift</li>
+       <li>Understand the App Deployment Process</li>
+    </ul>
+  </div>
+</div>
+
 ## 🛠️ Tools  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-

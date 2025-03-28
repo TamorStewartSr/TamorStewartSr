@@ -1,5 +1,5 @@
 ![My Image](/images/IMG_0238.jpg)
-# <marquee behavior="scroll" direction="left">Hi there!👋🏽 I'm Tamor Stewart, Welcome to my Profile 🚀</marquee>
+# Hi there!👋🏽 I'm Tamor Stewart, Welcome to my Profile 🚀
 ## 📖 About Me
 
 * Life-time background in manufacturing/Production +=20; yrs
@@ -29,35 +29,19 @@
 ## 🗄️ Database  
 [![H2 Database](https://img.shields.io/badge/H2-003B57?logo=h2&logoColor=white)](https://www.h2database.com/) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.sql.org/)
 
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 10px;">
-    <h3>🎯 Current Focus</h3>
-    <ul>
-      <li>Building RESTful APIs using SpringBoot</li>
-      <li> Exploring database management with H2 and JPA</li>
-      <li>Enhancing user experience with responsive front-end designs</li>
-      <li>Improving my backend development skills</li>
-      <li>Working on a restaurant review system with admin controls</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <h3>👨🏽‍🏫 Future Goals</h3>
-    <ul>
-      <li>Master front-end development (React/Angular)</li>
-      <li>Contribute to open-source projects</li>
-      <li>Learn DevOps and cloud technologies</li>
-      <li>Understand Machine Learning Fundamentals</li>
-      <li>Learn Python for AI</li>
-      <li>Build Simple AI Projects</li>
-       <li>Learn the Basics of Swift</li>
-       <li>Understand the App Deployment Process</li>
-    </ul>
-  </div>
-</div>
-
 ## 🛠️ Tools  
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
+| 🎯 Current Focus | 👨🏽‍🏫 Future Goals |
+|-------------------|--------------------|
+| - Building RESTful APIs using Spring Boot | - Master front-end development (React/Angular) |
+| - Exploring database management with H2 and JPA | - Contribute to open-source projects |
+| - Enhancing user experience with responsive front-end designs | - Learn DevOps and cloud technologies |
+| - Improving my backend development skills | - Understand Machine Learning Fundamentals |
+| - Working on a restaurant review system with admin controls | - Learn Python for AI |
+| | - Build Simple AI Projects |
+| | - Learn the Basics of Swift |
+| | - Understand the App Deployment Process |

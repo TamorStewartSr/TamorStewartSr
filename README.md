@@ -9,7 +9,7 @@
 
 ## ✉️ Lets connect [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamor.stewart/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tamor_stewart/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamorstewartsr/) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Tamor_Stewart) 
 
-### My intensions for this profile is to openly express my willingness and openness to learn, grow and connect with other Dev's to receive and give contributions/Feedback and be recognized by my peers and recruiters.
+### My intention for this profile is to openly express my eagerness to learn, grow, and connect with other developers, fostering collaboration through contributions and feedback, while also gaining recognition from my peers and recruiters.
 
 ## 📌 Licensing and Credit
 ### Most of my projects are licensed under the MIT License. Feel free to explore and contribute! Some of my Projects are open ended, if you find my beginner-friendly work helpful, I'd appreciate a shout-out. So help a tech Bro out!😂 

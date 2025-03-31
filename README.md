@@ -1,11 +1,13 @@
 ![My Image](/images/IMG_0238.jpg)
 # Hi there!👋🏽 I'm Tamor Stewart, Welcome to my Profile 🚀
-## 📖 About Me
+## 📖 About Me 
 
 * Life-time background in manufacturing/Production +=20; yrs
 * Started my Coding journey in 2022
 * Self Taught from Boot-camps, YouTube, StackOverFlow and now with AI🤖🙌🏾 confidence Lv = 100;
 * My first language = OG JAVA☕️
+* 📄 [Resume](/Resume/Resume2025.md) 
+* 📝[Transcript](/images/Tamor%20Stewart%20Dev%20Transcipt%202025.1.jpeg)
 
 ## ✉️ Lets connect [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/tamor.stewart/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tamor_stewart/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamorstewartsr/) [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/Tamor_Stewart) 
 

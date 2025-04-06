@@ -1,4 +1,4 @@
-![My Image](/images/IMG_0238.jpg)
+![My Image](/images/IMG_2031.JPG)
 # Hi there!👋🏽 I'm Tamor Stewart, Welcome to my Profile 🚀
 ## 📖 About Me 
 

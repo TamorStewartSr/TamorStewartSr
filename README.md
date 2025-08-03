@@ -2,7 +2,7 @@
 # Hi there!👋🏽 I'm Tamor Stewart, Welcome to my Profile 🚀
 ## 📖 About Me 
 
-* Life-time background in manufacturing/Production +=20; yrs
+* Background in manufacturing/Production
 * Started my Coding journey in 2022
 * Self Taught from Boot-camps, YouTube, StackOverFlow and now with AI🤖🙌🏾 confidence Lv = 100;
 * My first language = OG JAVA☕️
